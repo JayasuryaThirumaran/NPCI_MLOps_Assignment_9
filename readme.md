@@ -1,4 +1,4 @@
-# Kubernetes Exercise in KillerKoda Playground
+# Kubernetes Exercise in KillerKoda Playground/ Codepace
 
 ## Tasks:
 
@@ -12,7 +12,7 @@ In this assignment, you will be creating:
 
 
 ## Task 1: Create a Pod with an NGINX Image(2marks)
-* Open the KillerKoda playground.
+* Open the KillerKoda playground or create a codespace with this repository (this repo is configured with kubernetes)
 * Create a file named nginx-pod.yaml.
 * Apply the pod.
 * List the running pods.
