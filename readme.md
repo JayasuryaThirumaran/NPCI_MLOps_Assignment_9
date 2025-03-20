@@ -60,9 +60,9 @@ In this assignment, you will be creating:
 * Check pod status.
 * Check volume mounting inside the pod.
 
-## Submission Criteria:
+## Evaluation / Submission Criteria:
 
-You are required to complete the following Kubernetes exercise in the KillerKoda playground and submit the necessary files(.yml files) and screenshots(commands) as proof of completion.
+Evaluation is based on the files and images you submit and you are required to complete the following Kubernetes exercise in the KillerKoda playground and submit the necessary files(.yml files) and screenshots(commands) as proof of completion.
 
 
 
